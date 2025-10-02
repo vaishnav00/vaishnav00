@@ -1,11 +1,20 @@
 # 👋 Hi, I'm Vaishnav
 
 ## 🚀 About Me
+## 👨‍🎓 About Me
+
+- 🎓 M.Tech in Computer Science (Amrita Vishwa Vidyapeetham, Bengaluru, 2023–2025)
+- 💡 B.Tech in Electrical & Electronics Engg (Amrita Vishwa Vidyapeetham, Kerala, 2019–2023)
+- 🛠️ Engineering Intern (SanDisk, Bengaluru, 2024–2025)
+- 🚀 Exploring the world of AI – passionate about building, deploying, and understanding AI systems and their global impact.
+- 📈 Exporting AI and its world: Creating innovative solutions, sharing advanced concepts, and contributing to the expansion of AI’s possibilities.
+- 🔍 Actively seeking SDE opportunities and open for collaboration!
+
 - 💻 Software Development Engineer passionate about Cloud & AI
 - ☁️ Cloud Computing Enthusiast (AWS, Azure, GCP)
 - 🤖 Exploring Machine Learning and AI Technologies
-- 🌱 Currently learning advanced system design and distributed systems
 - 📫 Open to collaborating on innovative projects
+
 
 ## 🛠️ Tech Stack
 
